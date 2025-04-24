@@ -30,10 +30,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitizshukla&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitizshukla&theme=tokyonight" width="47%"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kshitizshukla05&show_icons=true&theme=radical" alt="Kshitiz's GitHub stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitizshukla05&theme=radical" alt="Kshitiz's GitHub Streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizshukla05&layout=compact&theme=radical" alt="Top Languages" /> </p>
 
 ---
 
