@@ -8,7 +8,7 @@
 
 ## 💡 About Me
 
-- 🎓 2nd-year Electronics & Communication Engineering student at **Maharaja Surajmal Institute of Technology**
+- 🎓 3rd-year Electronics & Communication Engineering student at **Maharaja Surajmal Institute of Technology**
 - 💻 Enthusiastic about building interactive websites and web apps
 - 📘 Sharpening my skills in Data Structures & Algorithms using C++
 - 🌱 Currently learning React and diving deeper into frontend development
