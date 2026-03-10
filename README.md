@@ -2,14 +2,6 @@
 
 <h3 align="center">🚀 MERN Stack Developer | 💻 Problem Solver | 📚 ECE Undergraduate</h3>
 
-<p align="center">
-  <a href="https://github.com/Kshitiz0504">
-    <img src="https://komarev.com/ghpvc/?username=Kshitiz0504&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
-
----
-
 # 👨‍💻 About Me
 
 🎓 3rd-year **Electronics & Communication Engineering** student at  
